@@ -13,6 +13,7 @@ The goal of this project is to build a model capable of detecting deepfake cat i
 📂 DeepFake_Cat_Detector/
 │── 📜 CS224_HW2_DeepFake_Cat_Detector.ipynb  # Jupyter Notebook with implementation
 │── 📂 data - Uploaded in the main branch
+│── 📜 requirements.txt - install all necessary documents
 │── 📜 README.md                               # Project documentation
 ```
 
