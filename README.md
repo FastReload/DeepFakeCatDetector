@@ -17,7 +17,6 @@ The goal of this project is to build a model capable of detecting deepfake cat i
 
 ## 🏗️ Installation & Setup  
 ### 1️⃣ Clone the Repository  
-```bash
 git clone https://github.com/FastReload/DeepFakeCatDetector.git
 cd DeepFakeCatDetector
 
@@ -25,9 +24,8 @@ run the requirements.txt file
 
 ## 🚀 Usage  
 Run the Jupyter Notebook to train and evaluate the model:  
-```bash
+
 jupyter notebook CS224_HW2_DeepFake_Cat_Detector.ipynb
-```
 
 ## 📊 Results  
 The model is evaluated based on accuracy, precision, recall, and F1-score. Confusion matrices and visualizations are included in the notebook.
@@ -38,9 +36,5 @@ The model is evaluated based on accuracy, precision, recall, and F1-score. Confu
 - [ ] Optimize hyperparameters for better accuracy  
 
 ## 👨‍💻 Author  
-Aryan Ramachandra – CS224, University of California, Riverside  
+Aryan Ramachandra, University of California, Riverside  
 
----
-
-Feel free to modify the README with specific details from your notebook! 🚀  
-```
