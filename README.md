@@ -1,6 +1,4 @@
-Here’s a GitHub README for your notebook:  
 
-```markdown
 # DeepFake Cat Detector 🐱🔍  
 
 This repository contains the DeepFake Cat Detector, a project for detecting deepfake cat images using deep learning techniques. The work is part of **CS224 Homework 2** and explores machine learning approaches to distinguish real cat images from AI-generated fakes.
@@ -22,6 +20,8 @@ The goal of this project is to build a model capable of detecting deepfake cat i
 ```bash
 git clone https://github.com/FastReload/DeepFakeCatDetector.git
 cd DeepFakeCatDetector
+
+run the requirements.txt file
 
 ## 🚀 Usage  
 Run the Jupyter Notebook to train and evaluate the model:  
